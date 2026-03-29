@@ -14,7 +14,7 @@ This project supports multi-language transcription, speaker detection, and inclu
 ![Register](assets/register.png)
 
 ### 🎛️ Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://github.com/mouryadipesh1606-oss/Whisper_Transcription/blob/main/assets/system_manager_transcription.jpeg)
 
 ### 🎤 Processing
 ![Processing](assets/processing.png)
