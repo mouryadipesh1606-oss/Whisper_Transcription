@@ -18,6 +18,15 @@ This project supports multi-language transcription, speaker detection, and inclu
 
 ---
 
+## 🔥 Highlights
+
+- 🤖 Built using OpenAI Whisper (state-of-the-art AI model)
+- 🧠 Speaker detection using ML (Librosa + KMeans)
+- 🔐 Secure login system with MySQL
+- 🖥️ Full GUI application (Tkinter)
+
+---
+
 ## 🚀 Features
 
 - 🎤 High-accuracy audio transcription using Whisper  
