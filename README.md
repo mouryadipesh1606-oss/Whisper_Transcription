@@ -8,7 +8,7 @@ This project supports multi-language transcription, speaker detection, and inclu
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login](assets/login.png)
+![Login](https://github.com/mouryadipesh1606-oss/Whisper_Transcription/blob/main/assets/login_transcription.jpeg)
 
 ### 📝 Register Screen
 ![Register](assets/register.png)
